@@ -1,10 +1,7 @@
-<details><summary>Click to expand</summary>
-# CMPT 353 Project
-</details>
+- [ ] # CMPT 353 Project
 
-<details><summary>Click to expand</summary>
 # Project Topic: Sensors, Noise, and Walking
-</details>
+
 
 # Group Member:
 - Yuhang Yuan yya207@sfu.ca

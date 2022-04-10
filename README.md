@@ -1,4 +1,4 @@
-- [ ] # CMPT 353 Project
+# CMPT 353 Project
 
 # Project Topic: Sensors, Noise, and Walking
 

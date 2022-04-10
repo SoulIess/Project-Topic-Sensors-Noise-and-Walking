@@ -2,6 +2,6 @@
 
 # Project Topic: Sensors, Noise, and Walking
 
-#Group Member:
+# Group Member:
 - Yuhang Yuan yya207@sfu.ca
 - Sunny Yang sya120@sfu.ca

@@ -27,10 +27,10 @@
         - pocket.csv
         - pocket_2.csv
          
-- Option 1: Run code by running $ _python3 project.py_
+- **Option 1**: Run code by running $ _python3 project.py_
     - all graphs generated would be in output folder
 
-- Option 2: run the "project 353.ipynb" in jupyter notebook for an overview of all graphs at the same time
+- **Option 2**: run the "project 353.ipynb" in jupyter notebook for an overview of all graphs at the same time
 
 # Expected output
 - The program once run should output images of graphs in the output folder

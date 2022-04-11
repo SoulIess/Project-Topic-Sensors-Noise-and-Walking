@@ -28,6 +28,7 @@
         - pocket_2.csv
          
 - **Option 1**: Run code by running $ _python3 project.py_
+
     - all graphs generated would be in output folder
 
 - **Option 2**: run the "project 353.ipynb" in jupyter notebook for an overview of all graphs at the same time

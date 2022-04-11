@@ -1,9 +1,15 @@
 import sys
+import os
 import numpy as np
 import pandas as pd
 from utils import *
 
 def main():
+    current = os.getcwd()
+    final = os.path.join(current, r'output')
+    if not os.path.exists(final):
+        os.makedirs(final)
+    
     #day 1 data
     paths = ['data/ankle.csv', 'data/arm.csv', 'data/pocket.csv', 'data/ankle_2.csv', 'data/arm_2.csv', 'data/pocket_2.csv']
     dfs = []

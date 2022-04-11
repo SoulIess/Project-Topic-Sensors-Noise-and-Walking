@@ -25,7 +25,8 @@
         - forward.csv
         - male.csv
         - pocket.csv
-        - pocket_2.csv 
+        - pocket_2.csv
+         
 - Option 1: Run code by running $ _python3 project.py_
     - all graphs generated would be in output folder
 

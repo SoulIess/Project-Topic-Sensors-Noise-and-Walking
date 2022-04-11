@@ -7,10 +7,10 @@
 - Sunny Yang sya120@sfu.ca
 
 # Required Libraries 
-- scipy
-- numpy
+- Scipy
+- Numpy
 - Pandas 
-- matplotlib
+- Matplotlib
 
 # How to Run:
 - download Project project.py and utils.py
